@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-batman-lego.png" alt="Batman LEGO Banner" />
+  <img src="https://raw.githubusercontent.com/chaustrexp/chaustrexp/main/batman-lego-banner.png" alt="Batman LEGO Banner" width="100%">
 </p>
 
 # 👋 ¡Hola! Soy Cristian (@chaustrexp)
@@ -80,11 +80,13 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 ## 📂 ¿Qué encontrarás en mi GitHub?
 
-- 🏦 **Banco_Express** – Simulación de sistema bancario  
-- 🥐 **BakerySoft** – Proyecto de gestión  
-- 🌐 **Portafolio** – Portafolio personal  
-- 📄 **Hoja-de-Vida** – CV web  
-- 🧩 Mini proyectos y prácticas con React y frontend  
+En mi perfil comparto proyectos académicos y personales enfocados en el aprendizaje y la práctica:
+
+- 🏦 **Banco_Express** – Simulación de sistema bancario
+- 🥐 **BakerySoft** – Proyecto de gestión
+- 🌐 **Portafolio** – Portafolio personal
+- 📄 **Hoja-de-Vida** – CV web
+- 🧩 Mini proyectos y prácticas con React y frontend
 
 ---
 
@@ -104,5 +106,5 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 - Aprender nuevas tecnologías y frameworks
 - Crecer como desarrollador de software profesional
 
-🦇 *Code by day, build like Batman by night.*  
-✨ Gracias por visitar mi perfil. Siempre dispuesto a aprender y mejorar 🚀
+✨ Gracias por visitar mi perfil. Siempre dispuesto a aprender y mejorar 🚀  
+🦇 *“Siempre listo para el siguiente reto, al estilo Batman LEGO”*
