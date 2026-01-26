@@ -35,8 +35,12 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tools.svg" width="45"/>
 </p>
+
+<p>
+  🧩 Kiro
+</p>
+
 
 
 ---
