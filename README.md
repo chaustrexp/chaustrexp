@@ -41,12 +41,11 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 ## 📱 Aplicaciones Favoritas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/duolingo.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="45"/>
-</p>
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 
 
 
