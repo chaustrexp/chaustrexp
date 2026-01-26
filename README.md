@@ -39,16 +39,15 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ---
 
 
-## 📱 Aplicaciones Favoritas 
+## 📱 Aplicaciones Favoritas
 
 <p align="left">
-  <img src="https://pixabay.com/es/images/search/spotify%20logo/" width="45"/>
-  <img src="https://business.pinterest.com/es/brand-guidelines/" width="45"/>
-  <img src="https://es.duolingo.com/" width="45"/>
-  <img src="https://es.wikipedia.org/wiki/Archivo:Youtube_logo.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/duolingo.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="45"/>
 </p>
 
----
 
 
 ## 🧠 Habilidades
