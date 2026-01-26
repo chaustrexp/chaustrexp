@@ -80,6 +80,17 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 ---
 
+## 🎮 Hobbies Favoritos
+
+- 🎧 Escuchar música (inglés y español)
+- 🇺🇸 Practicar y mejorar mi inglés
+- 🏋️‍♂️ Hacer ejercicio
+- 🎨 Diseñar y explorar creatividad visual
+- 💃 Bailar
+- 🏐 Jugar voleibol
+
+---
+
 ## 📂 ¿Qué encontrarás en mi GitHub?
 
 En mi perfil comparto proyectos académicos y personales enfocados en el aprendizaje y la práctica:
