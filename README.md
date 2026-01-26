@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-batman-lego.png" alt="Batman LEGO Banner" />
+</p>
+
 # 👋 ¡Hola! Soy Cristian (@chaustrexp)
 
 💻 **Aprendiz de Análisis y Desarrollo de Software**  
@@ -23,7 +27,6 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ---
 
 ## 🛠️ Herramientas y Aplicaciones
@@ -35,11 +38,7 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro-555555?style=for-the-badge&logo=tools&logoColor=white)
 
-
-
-
 ---
-
 
 ## 📱 Aplicaciones Favoritas
 
@@ -48,8 +47,7 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-
-
+---
 
 ## 🧠 Habilidades
 
@@ -69,17 +67,6 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 ---
 
-## 🎮 Hobbies e intereses
-
-- 💻 Programar y crear aplicaciones web
-- ⚛️ Aprender y practicar React
-- 🎨 Explorar diseño UI/UX
-- 📚 Aprender nuevas tecnologías
-- 🎮 Videojuegos y cultura digital
-- 🧠 Resolver retos de lógica
-
----
-
 ## 🎮 Hobbies Favoritos
 
 - 🎧 Escuchar música (inglés y español)
@@ -93,13 +80,11 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 ## 📂 ¿Qué encontrarás en mi GitHub?
 
-En mi perfil comparto proyectos académicos y personales enfocados en el aprendizaje y la práctica:
-
-- 🏦 **Banco_Express** – Simulación de sistema bancario
-- 🥐 **BakerySoft** – Proyecto de gestión
-- 🌐 **Portafolio** – Portafolio personal
-- 📄 **Hoja-de-Vida** – CV web
-- 🧩 Mini proyectos y prácticas con React y frontend
+- 🏦 **Banco_Express** – Simulación de sistema bancario  
+- 🥐 **BakerySoft** – Proyecto de gestión  
+- 🌐 **Portafolio** – Portafolio personal  
+- 📄 **Hoja-de-Vida** – CV web  
+- 🧩 Mini proyectos y prácticas con React y frontend  
 
 ---
 
@@ -119,4 +104,5 @@ En mi perfil comparto proyectos académicos y personales enfocados en el aprendi
 - Aprender nuevas tecnologías y frameworks
 - Crecer como desarrollador de software profesional
 
+🦇 *Code by day, build like Batman by night.*  
 ✨ Gracias por visitar mi perfil. Siempre dispuesto a aprender y mejorar 🚀
