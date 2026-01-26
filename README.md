@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaustrexp/chaustrexp/main/batman-lego-banner.png" alt="Batman LEGO Banner" width="100%">
-</p>
-
 # 👋 ¡Hola! Soy Cristian (@chaustrexp)
 
 💻 **Aprendiz de Análisis y Desarrollo de Software**  
