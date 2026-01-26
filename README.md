@@ -30,11 +30,14 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ## 🛠️ Herramientas y Aplicaciones
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tools.svg" width="45"/>
 </p>
+
 
 ---
 
