@@ -15,92 +15,123 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 ---
 
-## 💻 Lenguajes y Tecnologías
+# 💻 Lenguajes y Tecnologías
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🛠️ Herramientas y Aplicaciones
+# 🛠️ Herramientas y Aplicaciones
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-555555?style=for-the-badge&logo=tools&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Kiro](https://img.shields.io/badge/Kiro-gray?style=for-the-badge)
 
 ---
 
-## 📱 Aplicaciones Favoritas
+# 📱 Aplicaciones Favoritas
 
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify)
+![Pinterest](https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest)
+![Duolingo](https://img.shields.io/badge/Duolingo-green?style=for-the-badge&logo=duolingo)
+![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)
+![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)
+![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)
+![Discord](https://img.shields.io/badge/Discord-indigo?style=for-the-badge&logo=discord)
+![VSCO](https://img.shields.io/badge/VSCO-black?style=for-the-badge)
+![SHEIN](https://img.shields.io/badge/SHEIN-black?style=for-the-badge)
 
 ---
 
-## 🧠 Habilidades
+# 🧠 Habilidades
 
-### 🔧 Técnicas
-- Desarrollo web frontend con **HTML, CSS, JavaScript y React**
-- Creación de interfaces dinámicas y componentes reutilizables
-- Manejo de bases de datos **SQL**
-- Lógica de programación y resolución de problemas
-- Organización de proyectos y buenas prácticas
+## 🔧 Técnicas
 
-### 🤝 Blandas (Soft Skills)
+- Desarrollo web con **HTML, CSS, JavaScript y React**
+- Backend con **PHP y Laravel**
+- Diseño moderno con **Tailwind CSS**
+- Bases de datos **MySQL y PostgreSQL**
+- Lógica de programación
+- Buenas prácticas de desarrollo
+
+## 🤝 Blandas
+
 - Trabajo en equipo
-- Responsabilidad y compromiso
+- Responsabilidad
 - Aprendizaje autónomo
-- Pensamiento lógico y analítico
+- Pensamiento lógico
 - Comunicación efectiva
 
 ---
 
-## 🎮 Hobbies Favoritos
+# 🎮 Hobbies Favoritos
 
 - 🎧 Escuchar música (inglés y español)
-- 🇺🇸 Practicar y mejorar mi inglés
+- 🇺🇸 Practicar inglés
 - 🏋️‍♂️ Hacer ejercicio
-- 🎨 Diseñar y explorar creatividad visual
+- 🎨 Diseñar
 - 💃 Bailar
 - 🏐 Jugar voleibol
 
 ---
 
-## 📂 ¿Qué encontrarás en mi GitHub?
+# 🕹️ Juegos Favoritos
 
-En mi perfil comparto proyectos académicos y personales enfocados en el aprendizaje y la práctica:
-
-- 🏦 **Banco_Express** – Simulación de sistema bancario
-- 🥐 **BakerySoft** – Proyecto de gestión
-- 🌐 **Portafolio** – Portafolio personal
-- 📄 **Hoja-de-Vida** – CV web
-- 🧩 Mini proyectos y prácticas con React y frontend
-
----
-
-## 🔗 Conéctate conmigo
-
-- 🌐 **Hoja de vida:** https://hoja-de-vida-kohl.vercel.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/cristian-contreras-9a4999343
-- 📸 **Instagram:** https://www.instagram.com/_cristiqqn
-- 📘 **Facebook:** https://www.facebook.com/Chaustre00
+![Roblox](https://img.shields.io/badge/Roblox-black?style=for-the-badge&logo=roblox)
+![Fall Guys](https://img.shields.io/badge/Fall_Guys-pink?style=for-the-badge)
+![Brawl Stars](https://img.shields.io/badge/Brawl_Stars-yellow?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-green?style=for-the-badge&logo=minecraft)
+![Clash Royale](https://img.shields.io/badge/Clash_Royale-blue?style=for-the-badge)
+![Clash of Clans](https://img.shields.io/badge/Clash_of_Clans-orange?style=for-the-badge)
+![Subway Surfers](https://img.shields.io/badge/Subway_Surfers-blue?style=for-the-badge)
 
 ---
 
-## 🚀 Objetivos
+# 📂 ¿Qué encontrarás en mi GitHub?
 
-- Fortalecer mis conocimientos en **React y desarrollo frontend**
-- Crear proyectos completos (Frontend y Backend)
-- Aprender nuevas tecnologías y frameworks
-- Crecer como desarrollador de software profesional
+- 🏦 **Banco_Express**
+- 🥐 **BakerySoft**
+- 🌐 **Portafolio**
+- 📄 **Hoja-de-Vida**
+- 🧩 Proyectos con **React y desarrollo web**
 
-✨ Gracias por visitar mi perfil. Siempre dispuesto a aprender y mejorar 🚀  
-🦇 *“Siempre listo para el siguiente reto, al estilo Batman LEGO”*
+---
+
+# 🔗 Conéctate conmigo
+
+🌐 Hoja de vida  
+https://hoja-de-vida-kohl.vercel.app/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/cristian-contreras-9a4999343
+
+📸 Instagram  
+https://www.instagram.com/_.cristiqn/
+
+📘 Facebook  
+https://www.facebook.com/Chaustre00
+
+---
+
+# 🚀 Objetivos
+
+- Mejorar en **React**
+- Crear proyectos **Frontend + Backend**
+- Aprender nuevas tecnologías
+- Convertirme en **desarrollador profesional**
+
+---
+
+✨ Gracias por visitar mi perfil 🚀  
+🦇 *Siempre listo para el siguiente reto, al estilo Batman LEGO*
