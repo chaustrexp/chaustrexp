@@ -31,12 +31,19 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 # 🛠️ Herramientas y Aplicaciones
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Kiro](https://img.shields.io/badge/Kiro-gray?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
+![Bizagi](https://img.shields.io/badge/Bizagi-blue?style=for-the-badge)
+![Scribe](https://img.shields.io/badge/Scribe-purple?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)
+![Stitch](https://img.shields.io/badge/Stitch-gray?style=for-the-badge)
+![Kiro](https://img.shields.io/badge/Kiro-darkgray?style=for-the-badge)
 
 ---
 
@@ -59,10 +66,10 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ## 🔧 Técnicas
 
 - Desarrollo web con **HTML, CSS, JavaScript y React**
-- Backend con **PHP y Laravel**
-- Diseño moderno con **Tailwind CSS**
-- Bases de datos **MySQL y PostgreSQL**
-- Lógica de programación
+- Desarrollo backend con **PHP y Laravel**
+- Uso de **Tailwind CSS** para diseño moderno
+- Manejo de bases de datos **MySQL y PostgreSQL**
+- Lógica de programación y resolución de problemas
 - Buenas prácticas de desarrollo
 
 ## 🤝 Blandas
@@ -100,11 +107,13 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 # 📂 ¿Qué encontrarás en mi GitHub?
 
-- 🏦 **Banco_Express**
-- 🥐 **BakerySoft**
-- 🌐 **Portafolio**
-- 📄 **Hoja-de-Vida**
-- 🧩 Proyectos con **React y desarrollo web**
+En mi perfil comparto proyectos académicos y personales enfocados en el aprendizaje:
+
+- 🏦 **Banco_Express** – Simulación de sistema bancario
+- 🥐 **BakerySoft** – Sistema de gestión
+- 🌐 **Portafolio** – Portafolio personal
+- 📄 **Hoja-de-Vida** – CV web
+- 🧩 Proyectos y prácticas con **React y desarrollo web**
 
 ---
 
@@ -126,12 +135,13 @@ https://www.facebook.com/Chaustre00
 
 # 🚀 Objetivos
 
-- Mejorar en **React**
-- Crear proyectos **Frontend + Backend**
-- Aprender nuevas tecnologías
-- Convertirme en **desarrollador profesional**
+- Fortalecer mis conocimientos en **React y desarrollo frontend**
+- Crear proyectos completos **Frontend + Backend**
+- Aprender nuevas tecnologías y frameworks
+- Crecer como **desarrollador de software profesional**
 
 ---
 
 ✨ Gracias por visitar mi perfil 🚀  
-🦇 *Siempre listo para el siguiente reto, al estilo Batman LEGO*
+
+🦇 *“Siempre listo para el siguiente reto, al estilo Batman LEGO”*
