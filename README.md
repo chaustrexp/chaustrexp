@@ -1,29 +1,35 @@
-# 👋 ¡Hola! Soy Cristian (@chaustrexp)
+# 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
 
-💻 **Aprendiz de Análisis y Desarrollo de Software**  
-Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me gusta aprender haciendo, trabajar en proyectos reales y mejorar constantemente mis habilidades en el desarrollo de software, especialmente en el **desarrollo web con React**.
+💻 **Desarrollador Web Junior (Frontend Focus) & Aprendiz SENA**  
+Apasionado por crear soluciones digitales funcionales, estéticas y bien estructuradas. Me encanta aprender haciendo, trabajar en proyectos reales y superar nuevos retos en el desarrollo de software, con un fuerte enfoque en el ecosistema de **React** y el desarrollo full-stack.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Aprendiz de **Análisis y Desarrollo de Software**
-- ⚛️ Interesado en el desarrollo frontend con **React**
-- 🧠 Enfocado en la lógica de programación y la mejora continua
-- 🚀 Motivado por el aprendizaje constante y los nuevos retos
-- 🤝 Abierto a colaborar y crecer como desarrollador
+- 🎓 Aprendiz de **Análisis y Desarrollo de Software** en el SENA (Ficha 3115418).
+- 🏆 Ganador de la **Hackathon Cúcuta 2025**.
+- ⚛️ Especializándome en el desarrollo frontend con **React** y herramientas modernas de construcción como **Vite**.
+- 🧠 Sólidas bases en lógica de programación, bases de datos y desarrollo backend con **PHP (Laravel)** y **Java**.
+- 🤝 Abierto a colaborar, aprender constantemente y listo para iniciar mi etapa práctica/pasantías profesionales.
 
 ---
 
 # 💻 Lenguajes y Tecnologías
 
+### Frontend & Backend
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -31,19 +37,21 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 
 # 🛠️ Herramientas y Aplicaciones
 
+### Desarrollo & Despliegue
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+### Diseño & Productividad
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Bizagi](https://img.shields.io/badge/Bizagi-blue?style=for-the-badge)
-![Scribe](https://img.shields.io/badge/Scribe-purple?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)
-![Stitch](https://img.shields.io/badge/Stitch-gray?style=for-the-badge)
-![Kiro](https://img.shields.io/badge/Kiro-darkgray?style=for-the-badge)
+
+### Herramientas Ofimáticas
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ---
 
@@ -54,94 +62,74 @@ Apasionado por crear soluciones digitales funcionales y bien estructuradas. Me g
 ![Duolingo](https://img.shields.io/badge/Duolingo-green?style=for-the-badge&logo=duolingo)
 ![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)
 ![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)
-![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)
 ![Discord](https://img.shields.io/badge/Discord-indigo?style=for-the-badge&logo=discord)
-![VSCO](https://img.shields.io/badge/VSCO-black?style=for-the-badge)
-![SHEIN](https://img.shields.io/badge/SHEIN-black?style=for-the-badge)
 
 ---
 
 # 🧠 Habilidades
 
 ## 🔧 Técnicas
-
-- Desarrollo web con **HTML, CSS, JavaScript y React**
-- Desarrollo backend con **PHP y Laravel**
-- Uso de **Tailwind CSS** para diseño moderno
-- Manejo de bases de datos **MySQL y PostgreSQL**
-- Lógica de programación y resolución de problemas
-- Buenas prácticas de desarrollo
+- Desarrollo web frontend moderno con **React + Vite** y empaquetado optimizado.
+- Estilizado ágil con **Tailwind CSS** enfocado en UI/UX adaptable.
+- Desarrollo backend y APIs robustas con **PHP (Laravel)** y aplicaciones de escritorio con **Java (Swing)**.
+- Diseño, modelado y normalización de bases de datos relacionales en **MySQL y PostgreSQL**.
+- Arquitectura limpia y lógica de programación aplicada a la resolución de problemas.
 
 ## 🤝 Blandas
-
-- Trabajo en equipo
-- Responsabilidad
-- Aprendizaje autónomo
-- Pensamiento lógico
-- Comunicación efectiva
+- Trabajo en equipo enfocado en metodologías ágiles.
+- Responsabilidad y proactividad ante bloqueos técnicos.
+- Aprendizaje autónomo constante.
+- Pensamiento analítico y estructurado.
 
 ---
 
-# 🎮 Hobbies Favoritos
-
-- 🎧 Escuchar música (inglés y español)
-- 🇺🇸 Practicar inglés
-- 🏋️‍♂️ Hacer ejercicio
-- 🎨 Diseñar
-- 💃 Bailar
-- 🏐 Jugar voleibol
+# 🎨 Hobbies & Intereses
+- 🎧 Escuchar música e inspiración constante.
+- 🇺🇸 Practicar inglés (¡mejorando cada día!).
+- 🏋️‍♂️ Hacer ejercicio y mantener una vida activa.
+- 📸 Tomar fotografías de paisajes (especialmente atardeceres y paisajes nocturnos).
+- 🏐 Jugar voleibol.
 
 ---
 
 # 🕹️ Juegos Favoritos
 
 ![Roblox](https://img.shields.io/badge/Roblox-black?style=for-the-badge&logo=roblox)
-![Fall Guys](https://img.shields.io/badge/Fall_Guys-pink?style=for-the-badge)
 ![Brawl Stars](https://img.shields.io/badge/Brawl_Stars-yellow?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Minecraft-green?style=for-the-badge&logo=minecraft)
 ![Clash Royale](https://img.shields.io/badge/Clash_Royale-blue?style=for-the-badge)
 ![Clash of Clans](https://img.shields.io/badge/Clash_of_Clans-orange?style=for-the-badge)
-![Subway Surfers](https://img.shields.io/badge/Subway_Surfers-blue?style=for-the-badge)
 
 ---
 
 # 📂 ¿Qué encontrarás en mi GitHub?
 
-En mi perfil comparto proyectos académicos y personales enfocados en el aprendizaje:
+Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de práctica:
 
-- 🏦 **Banco_Express** – Simulación de sistema bancario
-- 🥐 **BakerySoft** – Sistema de gestión
-- 🌐 **Portafolio** – Portafolio personal
-- 📄 **Hoja-de-Vida** – CV web
-- 🧩 Proyectos y prácticas con **React y desarrollo web**
+- 🎫 **Digiturno System** – Sistema de asignación y gestión de turnos desarrollado con Laravel y MySQL.
+- 📦 **Gestión de Bienes** – Plataforma completa para el control, modelado y administración de activos.
+- 🏦 **Banco_Express** – Simulación y lógica avanzada de un sistema bancario.
+- 🥐 **BakerySoft** – Sistema integrado para la gestión de inventario y ventas.
+- 🌐 **Portafolio Personal** – Mi carta de presentación al mundo web, construida para destacar diseño y rendimiento.
 
 ---
 
 # 🔗 Conéctate conmigo
 
-🌐 Hoja de vida  
-https://hoja-de-vida-kohl.vercel.app/
-
-💼 LinkedIn  
-https://www.linkedin.com/in/cristian-contreras-9a4999343
-
-📸 Instagram  
-https://www.instagram.com/_.cristiqn/
-
-📘 Facebook  
-https://www.facebook.com/Chaustre00
+🌐 [Mi Hoja de Vida Web](https://hoja-de-vida-kohl.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/cristian-contreras-9a4999343)  
+📸 [Instagram](https://www.instagram.com/_.cristiqn/)  
 
 ---
 
-# 🚀 Objetivos
+# 🚀 Objetivos actuales
 
-- Fortalecer mis conocimientos en **React y desarrollo frontend**
-- Crear proyectos completos **Frontend + Backend**
-- Aprender nuevas tecnologías y frameworks
-- Crecer como **desarrollador de software profesional**
+- Dominar arquitecturas avanzadas en **React con Vite**.
+- Seguir profundizando en proyectos integrales **Full-Stack (Frontend + Backend + DB)**.
+- Encontrar una empresa excelente para aportar valor durante mi **etapa práctica**.
 
 ---
 
-✨ Gracias por visitar mi perfil 🚀  
+✨ ¡Gracias por pasarte por mi perfil! 🚀  
 
 🦇 *“Siempre listo para el siguiente reto, al estilo Batman LEGO”*
