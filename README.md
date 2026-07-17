@@ -1,5 +1,5 @@
 <!-- Banner Principal -->
-<img src="https://i.imgur.com/8QO5W5M.png" width="100%">
+<img src="https://i.pinimg.com/1200x/03/05/5f/03055f1df0840707c7bc73b632ffea8d.jpg" width="100%">
 
 
 # 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
