@@ -65,16 +65,7 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 ---
 
-# 📱 Aplicaciones Favoritas
 
-![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify)
-![Pinterest](https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest)
-![Duolingo](https://img.shields.io/badge/Duolingo-green?style=for-the-badge&logo=duolingo)
-![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)
-![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)
-![Discord](https://img.shields.io/badge/Discord-indigo?style=for-the-badge&logo=discord)
-
----
 
 # 🧠 Habilidades
 
