@@ -1,5 +1,5 @@
 <!-- Banner Principal -->
-<img src="https://i.pinimg.com/1200x/17/53/c8/1753c8b350522309eb3ef95a96857634.jpg" width="100%" alt="Mac Miller Banner" style="border-radius: 10px; margin-bottom: 10px;">
+<img src="https://i.pinimg.com/1200x/17/53/c8/1753c8b350522309eb3ef95a96857634.jpg" width="80%" alt="Mac Miller Banner" style="border-radius: 10px; margin-bottom: 10px;">
 
 <p align="center">
   <i>"Keep your eyes to the sky, never glued to your shoes."</i> — <b>Mac Miller</b> 🎧
