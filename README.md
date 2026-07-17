@@ -153,11 +153,10 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Cristian" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaustrexp&theme=tokyonight" alt="Detalles del Perfil de GitHub de Cristian" width="100%" />
 </p>
 
 
