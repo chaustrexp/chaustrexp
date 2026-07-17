@@ -41,7 +41,7 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Bases de Dtos
+### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -73,7 +73,7 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Stitch Design with AI](https://img.shields.io/badge/Stitch_Design_with_AI-0A0A0A?style=for-the-badge&logo=probot&logoColor=white)
 
-### Gestión de Proyetos & Organización
+### Gestión de Procyetos & Organización
 
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -156,8 +156,8 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Cristian" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Cristian" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="300" />
 </p>
 
 
