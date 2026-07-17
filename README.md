@@ -59,9 +59,29 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 ![Bizagi](https://img.shields.io/badge/Bizagi-blue?style=for-the-badge)
 
 ### Herramientas Ofimáticas
+
+### Ecosistema Microsoft 365
+
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
+### Ecosistema Google Workspace
+
 ![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC05?style=for-the-badge&logo=googleslides&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
+![Google Keep](https://img.shields.io/badge/Google_Keep-FBBC05?style=for-the-badge&logo=googlekeep&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
+
+### Otras Herramientas Comunes y Libres
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-358A24?style=for-the-badge&logo=libreoffice&logoColor=white)
+
 
 ---
 
