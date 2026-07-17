@@ -151,6 +151,15 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 
 🏆 Proyecto-Mundial – Aplicación robusta desarrollada en Java para gestionar, simular o procesar datos relacionados con torneos de fútbol.
 
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Cristian" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="180" />
+</p>
+
 
 ---
 
