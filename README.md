@@ -30,6 +30,9 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 ### Desarrollo y Despliegues
 
 #### Lenguajes y Framework (Backend & Frontend)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -56,6 +59,9 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 ### Desarrollo & Despliegue
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=code&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-4A5568?style=for-the-badge&logo=terminal&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-0D0D0D?style=for-the-badge&logo=rocket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
