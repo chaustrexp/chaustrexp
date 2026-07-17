@@ -138,11 +138,10 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 
 ### Conéctate conmigo
 
-
-[![Hoja de Vida](https://img.shields.io/badge/Mi_Hoja_de_Vida_Web-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white)](hoja-de-vida-kohl.vercel.app)
+[![Hoja de Vida](https://img.shields.io/badge/Mi_Hoja_de_Vida_Web-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoja-de-vida-kohl.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-contreras-9a4999343/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.cristiqn)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristianchaustre90@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.cristiqn/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianchaustre90@gmail.com)
 
 ---
 
