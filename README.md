@@ -106,11 +106,18 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de práctica:
 
-- 🎫 **Digiturno System** – Sistema de asignación y gestión de turnos desarrollado con Laravel y MySQL.
-- 📦 **Gestión de Bienes** – Plataforma completa para el control, modelado y administración de activos.
-- 🏦 **Banco_Express** – Simulación y lógica avanzada de un sistema bancario.
-- 🥐 **BakerySoft** – Sistema integrado para la gestión de inventario y ventas.
-- 🌐 **Portafolio Personal** – Mi carta de presentación al mundo web, construida para destacar diseño y rendimiento.
+🩺 Highmed – Aplicación web enfocada en el sector salud, desarrollada con JavaScript para ofrecer una experiencia de usuario interactiva y eficiente.
+
+🌐 Hoja-de-Vida – Mi portafolio y carta de presentación digital, construida con JavaScript para destacar mi perfil, habilidades y trayectoria de manera dinámica.
+
+🎫 Proyecto-DigiTurno – Sistema para la automatización, asignación y gestión inteligente de turnos de atención al cliente.
+
+🚀 Proyecto-Prog-Sena – Repositorio dedicado a centralizar mis desarrollos, talleres y lógica backend construidos en PHP durante mi formación en el SENA.
+
+🏦 Banco_Express – Simulación interactiva con lógica avanzada para la gestión de transacciones y operaciones de un sistema bancario, implementada en JavaScript.
+
+🏆 Proyecto-Mundial – Aplicación robusta desarrollada en Java para gestionar, simular o procesar datos relacionados con torneos de fútbol.
+
 
 ---
 
