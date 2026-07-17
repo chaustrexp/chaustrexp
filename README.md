@@ -162,14 +162,22 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 
 ---
 
-# 🔗 Conéctate conmigo
+## 🔗 Conéctate conmigo
 
-### Conéctate conmigo
-
-[![Hoja de Vida](https://img.shields.io/badge/Mi_Hoja_de_Vida_Web-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoja-de-vida-kohl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-contreras-9a4999343/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.cristiqn/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianchaustre90@gmail.com)
+<p align="left">
+  <a href="https://hoja-de-vida-kohl.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_Hoja_de_Vida_Web-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hoja de Vida" />
+  </a>
+  <a href="https://www.linkedin.com/in/cristian-contreras-9a4999343/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_.cristiqn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:cristianchaustre90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
