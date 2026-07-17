@@ -1,5 +1,11 @@
 <!-- Banner Principal -->
-<img src="https://i.pinimg.com/1200x/03/05/5f/03055f1df0840707c7bc73b632ffea8d.jpg" width="100%">
+<img src="https://i.pinimg.com/1200x/17/53/c8/1753c8b350522309eb3ef95a96857634.jpg" width="100%" alt="Mac Miller Banner" style="border-radius: 10px; margin-bottom: 10px;">
+
+<p align="center">
+  <i>"Keep your eyes to the sky, never glued to your shoes."</i> — <b>Mac Miller</b> 🎧
+</p>
+
+---
 
 
 # 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
@@ -144,3 +150,4 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 ✨ ¡Gracias por pasarte por mi perfil! 🚀  
 
 🦇 *“Siempre listo para el siguiente reto, al estilo Batman LEGO”*
+> 🎧 *"No matter where life takes me, find me with a smile."* — Mac Miller
