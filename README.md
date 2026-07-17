@@ -102,13 +102,7 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 ---
 
-# 🕹️ Juegos Favoritos
 
-![Roblox](https://img.shields.io/badge/Roblox-black?style=for-the-badge&logo=roblox)
-![Brawl Stars](https://img.shields.io/badge/Brawl_Stars-yellow?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Minecraft-green?style=for-the-badge&logo=minecraft)
-
----
 
 # 📂 ¿Qué encontrarás en mi GitHub?
 
