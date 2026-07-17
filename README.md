@@ -2,7 +2,6 @@
 <img src="https://i.imgur.com/8QO5W5M.png" alt="Cristian Contreras - Batman Tech Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 
 
-
 # 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
 
 💻 **Desarrollador Web Junior (Frontend Focus) & Aprendiz SENA**  
