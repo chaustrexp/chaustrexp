@@ -2,9 +2,8 @@
 <img src="https://i.pinimg.com/originals/e1/ac/3a/e1ac3a5cdd08109286035668e79af874.gif" width="100%" alt="Mac Miller Banner" style="border-radius: 10px; margin-bottom: 10px;">
 
 <p align="center">
-  <i>"> "No matter where life takes me, find me with a smile." — **Mac Miller*"</i> — <b>Mac Miller</b> 🎧
+  <i>"No matter where life takes me, find me with a smile."</i> — <b>Mac Miller</b> 🎧
 </p>
-
 ---
 
 # 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
