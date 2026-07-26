@@ -5,7 +5,6 @@
   <i>"Be you. You'll be fine."</i> — <b>Mac Miller</b> 🎧
 </p>
 
-
 # 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
 
 💻 **UI Developer (Frontend Focus) & Desarrollador Web**  
@@ -25,155 +24,52 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 # 💻 Lenguajes y Tecnologías
 
-
-
 ### Desarrollo y Despliegues
 
-
-
 #### Lenguajes y Framework (Backend & Frontend)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-
 ### Bases de Datos
-
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
 #### Control de Versiones, Contenedores y Hosting
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white)
-
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-
 
 ---
 
-
-
 # 🛠️ Herramientas y Aplicaciones
 
-
-
 ### Desarrollo & Despliegue
-
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=code&logoColor=white)
-
 ![Kiro](https://img.shields.io/badge/Kiro-4A5568?style=for-the-badge&logo=terminal&logoColor=white)
 
-![Antigravity](https://img.shields.io/badge/Antigravity-0D0D0D?style=for-the-badge&logo=rocket&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
-
-
-### Diseño & Productividad
-
-
-
-#### UI/UX & Edición
-
+### UI/UX, Gestión & Productividad
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-![Stitch Design with AI](https://img.shields.io/badge/Stitch_Design_with_AI-0A0A0A?style=for-the-badge&logo=probot&logoColor=white)
-
-
-
-### Gestión de Procyetos & Organización
-
-
-
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
 
 ### Herramientas Ofimáticas
-
-
-
-### Ecosistema Microsoft 365
-
-
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-
-
-
-### Ecosistema Google Workspace
-
-
-
 ![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
-
-![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
-
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC05?style=for-the-badge&logo=googleslides&logoColor=white)
-
-![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
-
-![Google Keep](https://img.shields.io/badge/Google_Keep-FBBC05?style=for-the-badge&logo=googlekeep&logoColor=white)
-
-![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
-
-
-
-### Otras Herramientas Comunes y Libres
-
-
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-![LibreOffice](https://img.shields.io/badge/LibreOffice-358A24?style=for-the-badge&logo=libreoffice&logoColor=white)
 
 ---
 
@@ -254,4 +150,4 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 ---
 
-✨ ¡Gracias por pasarte por mi perfil! 🚀 
+✨ ¡Gracias por pasarte por mi perfil! 🚀
