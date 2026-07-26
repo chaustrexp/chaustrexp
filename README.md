@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/e1/ac/3a/e1ac3a5cdd08109286035668e79af874.gif" width="100%" alt="Mac Miller Banner" style="border-radius: 10px; margin-bottom: 10px;">
 
 <p align="center">
-  <i>"Keep your eyes to the sky, never glued to your shoes."</i> — <b>Mac Miller</b> 🎧
+  <i>">*"No matter where life takes me, find me with a smile."* — **Mac Miller*"</i> — <b>Mac Miller</b> 🎧
 </p>
 
 ---
@@ -138,6 +138,4 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 ---
 
-✨ ¡Gracias por pasarte por mi perfil! 🚀  
-
-> 🎧 *"No matter where life takes me, find me with a smile."* — **Mac Miller**
+✨ ¡Gracias por pasarte por mi perfil! 🚀 
