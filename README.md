@@ -156,12 +156,8 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 ## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaustrexp&theme=github_dark" alt="Detalles de perfil" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaustrexp&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaustrexp&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&bg_color=000000&title_color=0088ff&text_color=ffffff&icon_color=0088ff&border_color=0088ff&locale=es" alt="Estadísticas de GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaustrexp&layout=compact&bg_color=000000&title_color=0088ff&text_color=ffffff&border_color=0088ff&locale=es" alt="Lenguajes más usados" width="49%" />
 </p>
 
 
