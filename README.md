@@ -54,22 +54,41 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 # 🛠️ Herramientas y Aplicaciones
 
+# 🛠️ Herramientas y Aplicaciones
+
 ### Desarrollo & Despliegue
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=code&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro-4A5568?style=for-the-badge&logo=terminal&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-0D0D0D?style=for-the-badge&logo=rocket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### UI/UX, Gestión & Productividad
+### UI/UX, Diseño & Organización
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### Herramientas Ofimáticas
+### Herramientas Ofimáticas & Productividad
+
+#### Microsoft 365
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
+#### Google Workspace
 ![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC05?style=for-the-badge&logo=googleslides&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
+
+#### Otras Herramientas Libres
+![LibreOffice](https://img.shields.io/badge/LibreOffice-358A24?style=for-the-badge&logo=libreoffice&logoColor=white)
 
 ---
 
