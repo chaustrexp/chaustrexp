@@ -196,5 +196,4 @@ Aquí comparto el progreso de mi aprendizaje a través de proyectos reales y de 
 
 ✨ ¡Gracias por pasarte por mi perfil! 🚀  
 
-🦇 *“Siempre listo para el siguiente reto, al estilo Batman LEGO”*
 > 🎧 *"No matter where life takes me, find me with a smile."* — Mac Miller
