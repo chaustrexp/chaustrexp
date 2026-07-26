@@ -94,12 +94,13 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 
 # 📂 ¿Qué encontrarás en mi GitHub?
 
-* 🩺 **Highmed** – Aplicación web enfocada en el sector salud, desarrollada con JavaScript para ofrecer una experiencia interactiva y eficiente.
-* 🌐 **Hoja-de-Vida** – Mi portafolio y carta de presentación digital, construida con JavaScript para destacar mi perfil y trayectoria.
-* 🎫 **Proyecto-DigiTurno** – Sistema para la automatización, asignación y gestión inteligente de turnos de atención al cliente.
-* 🚀 **Proyecto-Prog-Sena** – Repositorio dedicado a centralizar mis desarrollos, talleres y lógica backend construidos en PHP durante mi formación en el SENA.
-* 🏦 **Banco_Express** – Simulación interactiva con lógica avanzada para la gestión de transacciones bancarias en JavaScript.
-* 🏆 **Proyecto-Mundial** – Aplicación robusta desarrollada en Java para gestionar y procesar datos relacionados con torneos de fútbol.
+* 🩺 **Highmed** – Aplicación web enfocada en el sector salud, desarrollada con **JavaScript** para ofrecer una experiencia interactiva y eficiente.
+* 🌐 **Hoja-de-Vida** – Portafolio y carta de presentación digital interactiva desarrollada en **JavaScript** para presentar mi perfil y proyectos.
+* 🎫 **Proyecto-DigiTurno** – Sistema para la automatización, asignación y gestión inteligente de turnos con plantilla de interfaz **Blade (Cuchilla)**.
+* 🚀 **Proyecto-Prog-Sena** – Repositorio que centraliza mis desarrollos, talleres y lógica backend desarrollados en **PHP** durante mi formación.
+* 🏆 **Proyecto-Mundial** – Aplicación robusta desarrollada en **Java** para la gestión y procesamiento de datos sobre torneos de fútbol.
+* ☕ **Clases de Java** – Repositorio de ejercicios, prácticas de lógica, programación orientada a objetos y algoritmos construidos en **Java**.
+* ⚡ **Proyecto-Elemento** – Proyecto colaborativo en desarrollo para la implementación y estructuración de componentes clave en software web.
 
 ---
 
