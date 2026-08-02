@@ -129,10 +129,16 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 * 🏐 Voleibol.
 
 ---
-# 📊 Actividad de Agosto
+
+# 📊 Actividad en GitHub (2025 - 2026)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=react-dark&bg_color=0d1117&color=0088ff&line=0088ff&point=ffffff&area=true&hide_border=true&custom_title=Actividad%20en%20Agosto%202026" alt="Actividad de Agosto" width="100%" />
+  <h3>📅 Año 2026</h3>
+  <img src="https://ghchart.rshah.org/0088ff/chaustrexp" alt="Contribuciones 2026" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=react-dark&bg_color=0d1117&color=0088ff&line=0088ff&point=ffffff&area=true&hide_border=true&custom_title=Historial%20de%20Contribuciones" alt="Gráfico Histórico de Actividad" width="100%" />
 </p>
 
 
