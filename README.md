@@ -133,11 +133,11 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 # 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0088ff/chaustrexp" alt="Gráfico de contribuciones de chaustrexp" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chaustrexp&theme=tokyonight&column=4&margin-w=15" alt="Trofeos GitHub" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=react-dark&bg_color=0d1117&color=0088ff&line=0088ff&point=ffffff&area=true&hide_border=true" alt="Gráfico de Actividad" width="100%" />
 </p>
 
 
