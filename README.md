@@ -133,13 +133,13 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 # 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=chaustrexp&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" width="49%" />
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" width="49%" />
+  <img src="https://ghchart.rshah.org/0088ff/chaustrexp" alt="Gráfico de contribuciones de chaustrexp" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaustrexp&theme=tokyonight&hide_border=false" alt="Racha de Commits" width="100%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" width="100%" />
 </p>
+
 
 ---
 
