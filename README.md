@@ -133,7 +133,7 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 # 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaustrexp&theme=tokyonight&hide_border=false" alt="Racha de Commits" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:0088FF&height=180&section=header&text=chaustrexp%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Actividad GitHub" />
 </p>
 
 ---
