@@ -129,15 +129,10 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 * 🏐 Voleibol.
 
 ---
-
-# 📊 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=react-dark&bg_color=0d1117&color=0088ff&line=0088ff&point=ffffff&area=true&hide_border=true" alt="Gráfico de Actividad" width="100%" />
-</p>
+# 📊 Actividad de Agosto
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0088ff/chaustrexp" alt="Mapa de contribuciones de chaustrexp" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=react-dark&bg_color=0d1117&color=0088ff&line=0088ff&point=ffffff&area=true&hide_border=true&custom_title=Actividad%20en%20Agosto%202026" alt="Actividad de Agosto" width="100%" />
 </p>
 
 
