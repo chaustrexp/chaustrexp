@@ -133,12 +133,12 @@ Apasionado por crear soluciones digitales funcionales, estéticas y bien estruct
 # 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaustrexp&theme=github_dark" alt="Detalles de perfil" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaustrexp&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaustrexp&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaustrexp&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaustrexp&theme=tokyonight" alt="Racha de Commits" width="100%" />
 </p>
 
 ---
