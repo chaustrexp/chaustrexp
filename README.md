@@ -50,10 +50,17 @@
 
 ## 📂 Featured Repositories
 
-* 🌐 **[Hoja-de-Vida](https://hoja-de-vida-kohl.vercel.app/)** – Portafolio web interactivo desarrollado en JS.
-* 🎫 **Proyecto-DigiTurno** – Sistema automatizado para la gestión de turnos.
-* 💊 **Gestión_Farmaco** – Software para el control de inventario de medicamentos.
-* 🏆 **Proyecto-Mundial** – Sistema en Java para la simulación de torneos deportivos.
+Proyecto-DigiTurno: Sistema web para la automatización, gestión inteligente y asignación de turnos.
+
+Proyecto-Prog-Sena: Repositorio centralizado de talleres, módulos y lógica backend en PHP.
+
+Proyecto-Mundial: Aplicación en Java para la simulación, control y gestión de torneos deportivos.
+
+proyecto_elemento: Librería y desarrollo de componentes de interfaz web modernos y reutilizables.
+
+Aplicación Servitech: Plataforma web para la gestión de servicios técnicos, solicitudes y mantenimientos.
+
+Tienda_Parking_Springboot: Sistema de gestión de parqueaderos y control de ventas desarrollado con Spring Boot.
 
 ---
 
