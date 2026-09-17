@@ -1,174 +1,83 @@
-<!-- Banner Principal -->
-<img src="https://i.pinimg.com/originals/e1/ac/3a/e1ac3a5cdd08109286035668e79af874.gif" width="100%" alt="Mac Miller Banner" style="border-radius: 10px; margin-bottom: 10px;">
+# Hi ✌️, I'm Cristian Contreras
 
-<p align="center">
-  <i>"Be you. You'll be fine."</i> — <b>Mac Miller</b> 🎧
+### UI Developer (Frontend Focus) & Software Engineer
+
+> *"Be you. You'll be fine."* — **Mac Miller** 🎧
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chaustrexp&label=Profile%20views&color=0d1117&style=flat-square" alt="Profile views" />
 </p>
 
-# 👋 ¡Hola! Soy Cristian Omar Contreras Chaustre (@chaustrexp)
+---
 
-💻 **UI Developer (Frontend Focus) & Desarrollador Web**  
-Apasionado por crear soluciones digitales funcionales, estéticas y bien estructuradas. Me encanta aprender haciendo, trabajar en proyectos reales y superar nuevos retos en el desarrollo de software, con un fuerte enfoque en el ecosistema de **React** y el desarrollo full-stack.
+## ⚡ About Me
+
+* 🎓 Software Development Student @ **SENA (ADSO)**
+* 🏆 Winner of **Hackathon Cúcuta 2025**
+* ⚛️ Specialized in Frontend with **React, Vite & Tailwind CSS**
+* 🧠 Strong foundations in **PHP (Laravel)**, **Java (Spring Boot)** & **SQL**
+* 🏢 Entering productive stage @ **TNS**
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 💻 Tech Stack
 
-* 🎓 Aprendiz de **Análisis y Desarrollo de Software** en el SENA (Ficha 3115418).
-* 🏆 Ganador de la **Hackathon Cúcuta 2025**.
-* ⚛️ Especializándome en el desarrollo frontend con **React** y herramientas modernas como **Vite** y **Tailwind CSS**.
-* 🧠 Sólidas bases en lógica de programación, bases de datos y desarrollo backend con **PHP (Laravel)**, **Java (Spring Boot)** y **JavaScript**.
-* 🤝 Abierto a colaborar, aprender constantemente y listo para iniciar mi etapa práctica profesional.
+### Frontend & UI/UX
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)
 
----
+### Backend & Databases
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 💻 Lenguajes y Tecnologías
-
-### Desarrollo y Despliegues
-
-#### Lenguajes y Framework (Backend & Frontend)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Control de Versiones, Contenedores y Hosting
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-# 🛠️ Herramientas y Aplicaciones
+## 📂 Featured Repositories
 
-# 🛠️ Herramientas y Aplicaciones
-
-### Desarrollo & Despliegue
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=code&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-4A5568?style=for-the-badge&logo=terminal&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-0D0D0D?style=for-the-badge&logo=rocket&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### UI/UX, Diseño & Organización
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### Herramientas Ofimáticas & Productividad
-
-#### Microsoft 365
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-
-#### Google Workspace
-![Google Drive](https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC05?style=for-the-badge&logo=googleslides&logoColor=white)
-![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
-
-#### Otras Herramientas Libres
-![LibreOffice](https://img.shields.io/badge/LibreOffice-358A24?style=for-the-badge&logo=libreoffice&logoColor=white)
+* 🌐 **[Hoja-de-Vida](https://hoja-de-vida-kohl.vercel.app/)** – Portafolio web interactivo desarrollado en JS.
+* 🎫 **Proyecto-DigiTurno** – Sistema automatizado para la gestión de turnos.
+* 💊 **Gestión_Farmaco** – Software para el control de inventario de medicamentos.
+* 🏆 **Proyecto-Mundial** – Sistema en Java para la simulación de torneos deportivos.
 
 ---
 
-# 📂 ¿Qué encontrarás en mi GitHub?
-
-* 🌐 **Hoja-de-Vida** – Mi portafolio y carta de presentación digital interactiva desarrollada en JavaScript para destacar mi perfil y trayectoria.
-* ⚡ **Proyecto_elemento** – Proyecto colaborativo en desarrollo centrado en el diseño y estructuración de componentes clave de software web.
-* 🏆 **Proyecto-Mundial** – Aplicación desarrollada en Java para la gestión, simulación y procesamiento de datos sobre torneos de fútbol.
-* 🚀 **Proyecto-Prog-Sena** – Repositorio dedicado a centralizar mis desarrollos, talleres y lógica backend construidos en PHP durante mi formación.
-* 💊 **Gestión_Farmaco** – Sistema enfocado en la administración, control de inventario y seguimiento de medicamentos e insumos médicos.
-* 🎫 **Proyecto-DigiTurno** – Aplicación desarrollada para la asignación, automatización y gestión inteligente de turnos de atención al cliente.
-* ☕ **Ejercicio_java** – Proyecto construido en Java con arquitectura MVC e interfaz gráfica (Swing) para el control y gestión de parqueaderos.
-
----
-
-# 🧠 Habilidades
-
-## 🔧 Técnicas
-* Desarrollo web frontend moderno con **React + Vite** y empaquetado optimizado.
-* Estilizado ágil con **Tailwind CSS** enfocado en UI/UX adaptable.
-* Desarrollo backend y APIs robustas con **PHP (Laravel)** y aplicaciones con **Java (Spring Boot / Swing)**.
-* Diseño, modelado y normalización de bases de datos relacionales en **MySQL y PostgreSQL**.
-* Arquitectura limpia y lógica aplicada a la resolución de problemas.
-
-## 🤝 Blandas
-* Trabajo en equipo bajo metodologías ágiles.
-* Responsabilidad y proactividad ante retos técnicos.
-* Aprendizaje autónomo constante.
-* Pensamiento analítico y estructurado.
-
----
-
-# 🎨 Hobbies & Intereses
-* 🎧 Escuchar música e inspiración constante (Mac Miller, Hip-Hop & Indie).
-* 🇺🇸 Practicar inglés.
-* 🏋️‍♂️ Entrenamiento físico y vida activa.
-* 📸 Fotografías de paisajes nocturnos y atardeceres.
-* 🏐 Voleibol.
-
----
-
-# 📊 Actividad en GitHub (2025 - 2026)
+## 📈 Activity
 
 <p align="center">
-  <h3>📅 Año 2026</h3>
-  <img src="https://ghchart.rshah.org/0088ff/chaustrexp" alt="Contribuciones 2026" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=github-dark&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=react-dark&bg_color=0d1117&color=0088ff&line=0088ff&point=ffffff&area=true&hide_border=true&custom_title=Historial%20de%20Contribuciones" alt="Gráfico Histórico de Actividad" width="100%" />
-</p>
-
 
 ---
 
-# 🔗 Conéctate conmigo
+## 📬 Connect with me
 
 <p align="left">
   <a href="https://hoja-de-vida-kohl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio_Web-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/cristian-contreras-9a4999343/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_.cristiqn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:cristianchaustre90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-# 🚀 Objetivos actuales
-
-* Dominar arquitecturas avanzadas en **React con Vite**.
-* Seguir profundizando en proyectos integrales **Full-Stack (Frontend + Backend + DB)**.
-* Encontrar una empresa excelente para aportar valor durante mi **etapa práctica**.
-
----
-
-✨ ¡Gracias por pasarte por mi perfil! 🚀
