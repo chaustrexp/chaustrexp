@@ -14,9 +14,10 @@
 
 * 🎓 Software Development Student @ **SENA (ADSO)**
 * 🏆 Winner of **Hackathon Cúcuta 2025**
+* 📦 Active developer with **25+ public repositories** on GitHub
 * ⚛️ Specialized in Frontend with **React, Vite & Tailwind CSS**
 * 🧠 Strong foundations in **PHP (Laravel)**, **Java (Spring Boot)** & **SQL**
-* 🏢 Entering productive stage @ **TNS**
+* 🏢 Software Engineering Apprentice @ **TNS**
 
 ---
 
