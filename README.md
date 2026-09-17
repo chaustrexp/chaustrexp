@@ -1,6 +1,6 @@
 # Hi ✌️, I'm Cristian Chaustre
 
-### UI Developer (Frontend Focus) & Software Engineer
+### UI Developer (Frontend Focus) & aprendiz de software
 
 > *"Be you. You'll be fine."* — **Mac Miller** 🎧
 
