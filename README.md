@@ -1,6 +1,6 @@
 # Hi ✌️, I'm Cristian Chaustre
 
-### UI Developer (Frontend Focus) & aprendiz de software
+### UI Developer (Frontend Focus) & Software Developer
 
 > *"Be you. You'll be fine."* — **Mac Miller** 🎧
 
@@ -50,17 +50,12 @@
 
 ## 📂 Featured Repositories
 
-Proyecto-DigiTurno: Sistema web para la automatización, gestión inteligente y asignación de turnos.
-
-Proyecto-Prog-Sena: Repositorio centralizado de talleres, módulos y lógica backend en PHP.
-
-Proyecto-Mundial: Aplicación en Java para la simulación, control y gestión de torneos deportivos.
-
-proyecto_elemento: Librería y desarrollo de componentes de interfaz web modernos y reutilizables.
-
-Aplicación Servitech: Plataforma web para la gestión de servicios técnicos, solicitudes y mantenimientos.
-
-Tienda_Parking_Springboot: Sistema de gestión de parqueaderos y control de ventas desarrollado con Spring Boot.
+* 🎫 **[Proyecto-DigiTurno](https://github.com/chaustrexp/Proyecto-DigiTurno)** – Sistema web para la automatización, gestión inteligente y asignación de turnos.
+* 🐘 **[Proyecto-Prog-Sena](https://github.com/chaustrexp/Proyecto-Prog-Sena)** – Repositorio centralizado de talleres, módulos y lógica backend en PHP.
+* ⚽ **[Proyecto-Mundial](https://github.com/chaustrexp/Proyecto-Mundial)** – Aplicación en Java para la simulación, control y gestión de torneos deportivos.
+* ⚛️ **[proyecto_elemento](https://github.com/chaustrexp/proyecto_elemento)** – Librería y desarrollo de componentes de interfaz web modernos y reutilizables.
+* 🛠️ **[Aplicación Servitech](https://github.com/chaustrexp/Aplicaci%C3%B3n-Servitech)** – Plataforma web para la gestión de servicios técnicos, solicitudes y mantenimientos.
+* 🚗 **[Tienda_Parking_Springboot](https://github.com/chaustrexp/Tienda_Parking_Springboot)** – Sistema de gestión de parqueaderos y control de ventas desarrollado con Spring Boot.
 
 ---
 
@@ -69,7 +64,6 @@ Tienda_Parking_Springboot: Sistema de gestión de parqueaderos y control de vent
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaustrexp&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="80%" />
 </p>
-
 
 ---
 
