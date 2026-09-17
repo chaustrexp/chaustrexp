@@ -60,8 +60,11 @@
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaustrexp&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaustrexp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaustrexp&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </p>
+
+
 ---
 
 ## 📬 Connect with me
