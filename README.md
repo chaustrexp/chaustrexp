@@ -1,4 +1,4 @@
-# Hi ✌️, I'm Cristian Contreras
+# Hi ✌️, I'm Cristian Chaustre
 
 ### UI Developer (Frontend Focus) & Software Engineer
 
